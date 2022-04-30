@@ -14,5 +14,5 @@ Users should be able to:
 
 ## 🔗 Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-css-flexbox-HJVddKSB5)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-with-scss-css-flexbox-S1kB2zqH5)
 - [Live Site URL](https://qr-code-component-846.pages.dev/)
